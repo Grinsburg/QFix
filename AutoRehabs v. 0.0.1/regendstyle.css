@@ -1,0 +1,98 @@
+body, html
+{
+  height: auto;
+  width: auto;
+}
+
+body
+{
+  background-color: rgba(234, 201, 129, 0.43);
+}
+.regform
+{
+  width: 440px;
+  height: 580px;
+  background-color:  #dedede;
+  position: absolute;
+  margin-left: 80px;
+  display: inline-block;
+}
+.nfdiv
+{
+  display: inline-block;
+}
+
+.form
+{
+  display: inline-block;
+  margin-left: 0;
+  padding: 20px !important;
+  margin-left: 50px;
+}
+
+.margin--top
+{
+  margin-top: 0px;
+}
+
+.input_text
+{
+  width: 300px;
+  height: 12px;
+  padding: 10px;
+  border: 1px solid black;
+  position: relative;
+}
+
+.regbutton
+{
+  margin-top: 40px;
+  margin-left: 80px;
+  width: 140px;
+  height: 30px;
+  color: white;
+  border: 0px solid transparent;
+  background-color: red;
+  cursor: pointer;
+}
+
+.texthelp
+{
+  font-size: 14px;
+  font-family: "Engel Einstein";
+}
+
+.btnhover
+{
+  background-color: #dedede;
+  height: 30px;
+  border-bottom: 0px solid transparent;
+  border-left: 0px solid transparent;
+  border-right: 0px solid transparent;
+  border-radius: 2px 1px 1px 1px;
+  border-top: 0px solid transparent;
+}
+
+.btnhover:hover
+{
+  background-color: #52bcec;
+  border-radius: 2px 0px 2px 0px;
+}
+
+.texthelp_2
+{
+  margin-left: 80px;
+}
+
+.regform1
+{
+  width: 440px;
+  height: 580px;
+  background-color: #dedede;
+  margin-left: 600px;
+}
+
+.uslugilist
+{
+  margin-left: 20px;
+}

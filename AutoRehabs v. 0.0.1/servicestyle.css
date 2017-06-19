@@ -1,0 +1,83 @@
+body, html
+{
+  height: 100%;
+  width: 100%;
+}
+
+body
+{
+  margin: 0;
+}
+
+.servblockone
+{
+  background-color: red;
+  height: 50px;
+  min-width: 100%;
+  min-height: 450px;
+  position: relative;
+  display: block;
+  background-repeat: no-repeat;
+}
+
+.servblocktwo
+{
+  background-color: white;
+  min-width: 100%;
+  min-height: 550px;
+  display: inline-block;
+}
+
+.servblockthree
+{
+  background-color: green;
+  min-width: 100%;
+  height: 143px;
+}
+
+.nameblock
+{
+  display: inline-block;
+  height: 950px;
+  width: 745px;
+  background-color: white;
+  overflow: hidden;
+  border-right: 1px solid black;
+}
+
+.infoblock
+{
+  display: inline-block;
+  
+  background-color: white;
+  margin-right: 0px;
+  overflow: hidden;
+}
+
+li
+{
+}
+
+.p_one
+{
+  font-size: 25px;
+  margin-left: 20%;
+  display: inline-block;
+}
+
+.h5
+{
+  margin-left: 20%;
+  font-size: 26px;
+}
+
+.p_two
+{
+  margin-left: 50px;
+}
+.lists
+{
+font: 18px Arial, Helvetica, sans-serif;
+font-size: 25px;
+margin-left: 5%;
+}
